@@ -1,3 +1,5 @@
+http://blog.csdn.net/tjcyjd/article/details/50695922
+
 Nginx的配置文件nginx.conf配置详解如下：
  
 user nginx nginx ;
